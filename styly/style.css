@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;	
+}
+
+.red-box{
+	width: 150px;
+	height: 150px;
+	background: red;
+	margin-left: 0px;
+
+}
+
+.blue-box{
+	width: 150px;
+	height: 150px;
+	background: blue;
+}
+
+.green-box{
+	width: 150px;
+	height: 150px;
+	background: green;
+}
